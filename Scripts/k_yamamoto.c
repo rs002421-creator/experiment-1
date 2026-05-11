@@ -3,7 +3,7 @@
 int main(void){
     char y;
 
-    y = "山本unko康生";
+    y = "伊沢拓司"[0];
 
     for(int i = 0; i < 10; i++){
         printf("バカ → %c\n", y);
