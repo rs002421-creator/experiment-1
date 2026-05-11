@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+HIKAKIN 
+SEIKIN 
+DEKAKIN 
+=======
+"YORUSHIKA" 
+>>>>>>> bd248d511eaf213c3dd5f7bfa8d7c848fc2d75f7
